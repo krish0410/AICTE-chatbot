@@ -15,6 +15,10 @@ asked by the user, and is being stored in MYSQL database.</li>
 Python and Rasa need to be installed
 
 ```bash
+sudo apt-get install python3.6
+```
+
+```bash
 python -m pip install --upgrade pip rasa
 ```
 
