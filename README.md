@@ -12,7 +12,7 @@ asked by the user, and is being stored in MYSQL database.</li>
 
 ## Installation
 
-Python and Rasa need to be installed
+Python and Rasa needs to be installed
 
 ```bash
 sudo apt-get install python3.6
