@@ -7,7 +7,7 @@ using the RASA 3.1 and BERT model.</li>
 accuracy of 70% .</li>
   <li>Relevance question dataset is automatically updated by the questions
 asked by the user, and is being stored in MYSQL database.</li>
-  <li>Voice chat-feature is also provided which enables to continue their conversation verbally.</li>
+  <li>Voice chat-feature is also provided which enables users to continue their conversation verbally to avoid thier physicall efforts.</li>
 </ul> 
 
 ## Installation
