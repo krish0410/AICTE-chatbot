@@ -50,7 +50,7 @@ Then go to the browser and enter the url **http://127.0.0.1:8000/**
 
 ![alt text](https://i.ibb.co/Hp5HPWW/Screenshot-452.png)
 
-![alt text](https://i.ibb.co/gTm8pX1/Screenshot-453.png)
+![alt text](https://i.ibb.co/XpzSV53/Screenshot-453.png)
 
 ![alt text](https://i.ibb.co/gmhPbjg/Screenshot-454.png)
 
