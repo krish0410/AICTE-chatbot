@@ -38,17 +38,15 @@ Then go to the browser and enter the url **http://127.0.0.1:8000/**
 
 ## Screenshots of portal
 
-<a href="https://ibb.co/h2N7LNc"><img src="https://i.ibb.co/vLWwVWh/Screenshot-447.png" alt="Screenshot-447" border="0"></a>
-
 ![alt text](https://i.ibb.co/zbGm1v7/Screenshot-447.png)
 
 ![alt text](https://i.ibb.co/jMTGBb0/Screenshot-448.png)
 
 ![alt text](https://i.ibb.co/N2wTMVq/Screenshot-449.png)
 
-![alt text](https://i.ibb.co/n0rG2Mt/Screenshot-451.png)
-
 ![alt text](https://i.ibb.co/zrRh1Jg/Screenshot-450.png)
+
+![alt text](https://i.ibb.co/M5hXV6z/Screenshot-451.png)
 
 ![alt text](https://i.ibb.co/Hp5HPWW/Screenshot-452.png)
 
