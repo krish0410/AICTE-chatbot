@@ -40,7 +40,7 @@ Then go to the browser and enter the url **http://127.0.0.1:8000/**
 
 ![alt text](https://i.ibb.co/zbGm1v7/Screenshot-447.png)
 
-![alt text](https://i.ibb.co/jMTGBb0/Screenshot-448.png)
+![alt text](https://i.ibb.co/3Yq6sPN/Screenshot-448.png)
 
 ![alt text](https://i.ibb.co/N2wTMVq/Screenshot-449.png)
 
